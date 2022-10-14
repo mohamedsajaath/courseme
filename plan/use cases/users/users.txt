@@ -1,0 +1,9 @@
+Title : users
+
+Actors : Learner, Admin
+
+Scenario :
+ 
+	1. Can Login
+	2. Can Logout
+	3. Profile Edit

@@ -1,0 +1,17 @@
+Requirements
+
+1.	User can Login to The system.
+2.	There will be signup option.
+3.	Logged user can add, delete, edit courses.
+4.	A course must come under category.
+5.	A course can be assigned with multiple tags.
+6.	Course should contain its relevant details.
+7.	Course must contain total durations
+8.	Every time user can enter his/her completion slots to the system.
+9.	According data course should show total, completion and remaining details in 	visual manner.
+10.	Also user should have a dashboard it should show performance (all/category 	wise).
+11.	Course can contain priority levels.
+12.	Course can mark as public then system show its on public page.
+13.	Public page common for all public users.
+14.	On there they can like courses
+

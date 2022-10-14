@@ -1,0 +1,21 @@
+IDENTIFYING ENTITIES
+
+
+User  
+1.	Username
+2.	Password
+3.	Email
+4.	User_image_link
+
+Course
+1.	Course_name
+2.	Course_category		*
+3.	Course_description
+4.	Course_priority
+5.	Course_visible_public
+6.	Course_impression_public
+7.	Course_tags		*
+8.	Course_duration		*
+9.	Course_upload_date
+10.	Course_tutor		*
+11.	Course_organization	*
